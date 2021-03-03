@@ -30,4 +30,6 @@ Diario de Bordo
       - começamos a ver matrizes deixei o exercicio para gerar numeros aleatorios
 		- link da aula online:
 		https://ca-lti.bbcollab.com/recording/418309e580df47d7add21b0257c4401c
+
+05/03 - corrigir o problema de multiplicação de matrizes
 	
