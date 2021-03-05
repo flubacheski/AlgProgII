@@ -6,10 +6,11 @@ BJD 23 alunos
 Total 35 alunos
 MÉDIA FINAL= T1*0.2 + T2*0.3 + T3*0.3 + T4*0.2
 
-T1 = Reconhecimento de padrão (dupla)
-T2 = Dicionario do Samuel (dupla)
-T3 = Compactador de Arquivos (dupla)
+T1 = matrizes
+T2 = busca
+T3 = busca e ordenação
 T4 = Diagrama de Execução - QuickSort e MergeSort (individual)
+
 udemy - GitHub para iniciantes
 https://www.udemy.com/course/git-e-github-para-iniciantes/
 
@@ -31,5 +32,9 @@ Diario de Bordo
 		- link da aula online:
 		https://ca-lti.bbcollab.com/recording/418309e580df47d7add21b0257c4401c
 
-05/03 - corrigir o problema de multiplicação de matrizes
+05/03 - corrigir o problema de geração de numeros aletorios para matriz
+      - apresentação do jogo da velha que será implementado pelo professor na próxima aula
+		
+12/03 - apresentação da implementação do jogo da velha pelo professor, explicar por que a matriz volta preenchida e um tipo basico não.
+      - apresentação do trabalho 1 envolvendo matrizes
 	
