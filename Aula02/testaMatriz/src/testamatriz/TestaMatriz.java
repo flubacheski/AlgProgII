@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 
 public class TestaMatriz {
+   
     public static void main(String[] args) {
         // declara uma variavel que sera uma matriz
         int matriz[][];
@@ -36,4 +37,5 @@ public class TestaMatriz {
             }
         }
     }
+
 }
