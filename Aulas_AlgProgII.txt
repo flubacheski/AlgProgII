@@ -1,7 +1,7 @@
 --------------------------------------------------
 --------- Algoritmos e Programação II TADS - BJD
 --------------------------------------------------
-TADS 12 alunos
+TADS 11 alunos
 BJD 23 alunos
 Total 35 alunos
 MÉDIA FINAL= T1*0.2 + T2*0.3 + T3*0.3 + T4*0.2
@@ -11,11 +11,12 @@ T2 = busca
 T3 = busca e ordenação
 T4 = Diagrama de Execução - QuickSort e MergeSort (individual)
 
-udemy - GitHub para iniciantes
-https://www.udemy.com/course/git-e-github-para-iniciantes/
-
 Link do GitHub das aulas
 https://github.com/flubacheski/AlgProgII
+
+Link para aula online, é mesma todas as sexta-feira:
+https://ca.bbcollab.com/guest/2e907b2d079b4df2ba4f7d884fbea097
+
 
 Diario de Bordo
 12/02 - exercicios https://codingbat.com/java/Array-1  o primeiro e o último
