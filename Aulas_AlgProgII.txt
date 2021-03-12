@@ -40,4 +40,5 @@ Diario de Bordo
 		
 12/03 - apresentação da implementação do jogo da velha pelo professor, explicar por que a matriz volta preenchida e um tipo basico não.
       - apresentação do trabalho 1 envolvendo matrizes (sudoku)
-	
+
+19/03 - explicar como fazer a leitura de um arquivo texto para implementar o sudoku
