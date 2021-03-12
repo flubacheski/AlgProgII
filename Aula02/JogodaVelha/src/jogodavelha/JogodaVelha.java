@@ -1,3 +1,6 @@
+/*
+Autor: Fabio Lubacheski
+*/
 package jogodavelha;
 
 import java.util.Scanner;
@@ -6,7 +9,7 @@ public class JogodaVelha {
     public static void main(String[] args) {
         // funcao principal do jogo
         game();
-        
+       
     }
     public static void game(){
         // declara a matriz que serah o tabuleiro
