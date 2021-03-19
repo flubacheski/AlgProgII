@@ -45,3 +45,9 @@ Diario de Bordo
 		
 19/03 - explicar como fazer a leitura de um arquivo texto para implementar o sudoku
 	   - vimos também como identificar as submatrizes no sudoku.
+		- link da aula online gravada:
+		https://ca-lti.bbcollab.com/recording/783a83ed93b941aca3bb904855bfe6b2
+
+26/03 - Feriado antecipado São Paulo
+
+29/03 - Segunda-feira Entrega do trabalho 1
