@@ -44,3 +44,4 @@ Diario de Bordo
 		https://ca-lti.bbcollab.com/recording/f846a6bc18284ef09db4230f9daa928d
 		
 19/03 - explicar como fazer a leitura de um arquivo texto para implementar o sudoku
+	   - vimos também como identificar as submatrizes no sudoku.
