@@ -53,4 +53,6 @@ Diario de Bordo
 29/03 - Feriado antecipado São Paulo
 05/04 - Segunda-feira Entrega do trabalho 1
 
-09/04 - começar busca.
+09/04 - busca linear e binária
+
+16/04 - Explicar como comparar os dois algoritmos busca linear e busca binária
