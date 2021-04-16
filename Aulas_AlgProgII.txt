@@ -26,33 +26,35 @@ Diario de Bordo
       - resolvemos o exercício https://codingbat.com/prob/p162010
 		- exercicio da lista 1 de vetores - interssecao
 		- link da aula online gravada: 
-		https://ca-lti.bbcollab.com/recording/4db758642a704879b4f4ebbf162da639
+		  https://ca-lti.bbcollab.com/recording/4db758642a704879b4f4ebbf162da639
 		
 26/02 - verificar com os alunos se tiveram dúvidas na lista 1 de vetores 
       - começamos a ver matrizes deixei o exercicio para gerar numeros aleatorios
 		- link da aula online gravada:
-		https://ca-lti.bbcollab.com/recording/418309e580df47d7add21b0257c4401c
+		  https://ca-lti.bbcollab.com/recording/418309e580df47d7add21b0257c4401c
 
 05/03 - corrigir o problema de geração de numeros aletorios para matriz
       - apresentação do jogo da velha que será implementado pelo professor na próxima aula
 		- link da aula online gravada:
-		https://ca-lti.bbcollab.com/recording/e8920c82aee643fd8e1324b3d42a5b99
+		  https://ca-lti.bbcollab.com/recording/e8920c82aee643fd8e1324b3d42a5b99
 		
 12/03 - apresentação da implementação do jogo da velha pelo professor, explicar por que a matriz volta preenchida e um tipo basico não.
       - apresentação do trabalho 1 envolvendo matrizes (sudoku)
       - link da aula online gravada:
-		https://ca-lti.bbcollab.com/recording/f846a6bc18284ef09db4230f9daa928d
+		  https://ca-lti.bbcollab.com/recording/f846a6bc18284ef09db4230f9daa928d
 		
 19/03 - explicar como fazer a leitura de um arquivo texto para implementar o sudoku
 	   - vimos também como identificar as submatrizes no sudoku.
 		- link da aula online gravada:
-		https://ca-lti.bbcollab.com/recording/783a83ed93b941aca3bb904855bfe6b2
+		  https://ca-lti.bbcollab.com/recording/783a83ed93b941aca3bb904855bfe6b2
 
 26/03 - Feriado antecipado São Paulo
 
 29/03 - Feriado antecipado São Paulo
-05/04 - Segunda-feira Entrega do trabalho 1
+05/04 - Segunda-feira Entrega do trabalho 1 (corrigir)
 
 09/04 - busca linear e binária
-
+      - link da aula online gravada:
+        https://ca-lti.bbcollab.com/recording/0739c3a5f0b64f25915c96ba81585f85
+		  
 16/04 - Explicar como comparar os dois algoritmos busca linear e busca binária
