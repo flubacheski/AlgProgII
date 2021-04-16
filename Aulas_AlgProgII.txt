@@ -11,6 +11,9 @@ T2 = busca
 T3 = busca e ordenação
 T4 = Diagrama de Execução - QuickSort e MergeSort (individual)
 
+uDemy - GitHub para iniciantes
+https://www.udemy.com/course/git-e-github-para-iniciantes/
+
 Link do GitHub das aulas
 https://github.com/flubacheski/AlgProgII
 
@@ -58,3 +61,5 @@ Diario de Bordo
         https://ca-lti.bbcollab.com/recording/0739c3a5f0b64f25915c96ba81585f85
 		  
 16/04 - Explicar como comparar os dois algoritmos busca linear e busca binária
+
+23/04 - Resolver o problema da diferença absoluta a-b (4) organizar par impar no vetor(n passos)
