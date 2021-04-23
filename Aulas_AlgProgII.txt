@@ -61,5 +61,13 @@ Diario de Bordo
         https://ca-lti.bbcollab.com/recording/0739c3a5f0b64f25915c96ba81585f85
 		  
 16/04 - Explicar como comparar os dois algoritmos busca linear e busca binária
+      - link da aula online gravada:
+        https://ca-lti.bbcollab.com/recording/8e74e2d9aacd491a8832e2386687263c
+        
+23/04 - Resolver o problema da diferença absoluta a-b, começamos ordenação com o método bolha
+      - Apresentação do T2 - Muita Sort
 
-23/04 - Resolver o problema da diferença absoluta a-b (4) organizar par impar no vetor(n passos)
+30/04 - Dúvidas em relação ao trabalho 2 (Muita Sort), 
+        apresentação do algoritmo de ordenação por inserção.
+        
+07/05 - Entrega do trabalho 2 (Muita Sort!!!) - Recusividade
