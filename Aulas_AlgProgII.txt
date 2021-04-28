@@ -66,6 +66,8 @@ Diario de Bordo
         
 23/04 - Resolver o problema da diferença absoluta a-b, começamos ordenação com o método bolha
       - Apresentação do T2 - Muita Sort
+      - link da aula online gravada:
+      https://ca-lti.bbcollab.com/recording/e2a162a41e56444f9e5eeee5540cb8b3
 
 30/04 - Dúvidas em relação ao trabalho 2 (Muita Sort), 
         apresentação do algoritmo de ordenação por inserção.
