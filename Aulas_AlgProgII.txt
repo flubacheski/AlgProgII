@@ -7,9 +7,9 @@ Total 35 alunos
 MÉDIA FINAL= T1*0.2 + T2*0.3 + T3*0.3 + T4*0.2
 
 T1 = matrizes
-T2 = busca
+T2 = Ordenação
 T3 = busca e ordenação
-T4 = Diagrama de Execução - QuickSort e MergeSort (individual)
+T4 = QuickSort e MergeSort
 
 uDemy - GitHub para iniciantes
 https://www.udemy.com/course/git-e-github-para-iniciantes/
@@ -67,9 +67,11 @@ Diario de Bordo
 23/04 - Resolver o problema da diferença absoluta a-b, começamos ordenação com o método bolha
       - Apresentação do T2 - Muita Sort
       - link da aula online gravada:
-      https://ca-lti.bbcollab.com/recording/e2a162a41e56444f9e5eeee5540cb8b3
+        https://ca-lti.bbcollab.com/recording/e2a162a41e56444f9e5eeee5540cb8b3
 
 30/04 - Dúvidas em relação ao trabalho 2 (Muita Sort), 
         apresentação do algoritmo de ordenação por inserção.
+      - link da aula online gravada:
+        https://ca-lti.bbcollab.com/recording/a835e6807e05462081f68ae6adaeaa90
         
 07/05 - Entrega do trabalho 2 (Muita Sort!!!) - Recusividade
