@@ -75,16 +75,19 @@ Diario de Bordo
         https://ca-lti.bbcollab.com/recording/a835e6807e05462081f68ae6adaeaa90
         
 07/05 - Entrega do trabalho 2 (Muita Sort!!!) - Recusividade
+      - link da aula online gravada: 
+        https://ca-lti.bbcollab.com/recording/cc0ff502555740eab4fa58439c3d33f3
 
-14/05 - Diagrama de execução - (teste de mesa recursivo)
-      - Apresentação do trabalho 3 (Amigos do Habay)
+14/05 - Resolver exercicios do Codinbat (https://codingbat.com/java/Recursion-1)
+      - Resolver a busca linear Recursiva 
+      - Apresentação do trabalho 3 (Dicionario Samuel reescrever) - usando busca binaria recursiva e insercao recursiva
 
-21/05 -
+21/05 - 
 
-28/05 -
+28/05 - Entrega do ultimo trabalho 3
 
 04/06 -
 
-11/06
+11/06 -
       
 18/06 - (sexta-feira) Término das aulas
