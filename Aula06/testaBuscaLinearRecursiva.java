@@ -3,6 +3,7 @@ public class testaBuscaLinearRecursiva {
     public static void main(String[] args) {
       // tamanho do vetor N=8
       int A[] = {5,3,7,4,2,8,4,6}; 
+      String vetor[]={"aa", "bb", "c", "cc", "d", "ddd"}
       passos=0;
       System.out.println("busca linear recursiva:"+buscaR(A, 15, 0));
       System.out.println("passo recursiva:"+passos);

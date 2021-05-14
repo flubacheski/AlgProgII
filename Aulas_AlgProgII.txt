@@ -83,12 +83,13 @@ Diario de Bordo
       - Resolver a busca linear Recursiva 
       - Apresentação do trabalho 3 (Dicionario Samuel reescrever) - usando busca binaria recursiva e insercao recursiva
 
-21/05 - 
+21/05 - Apresentar a nota do Trabalho 2 / Duvidas em relação ao trabalho 3 / Apresentar algoritmo de ordenação MergeSort
 
-28/05 - Entrega do último trabalho 3
+28/05 -  Duvidas em relação ao trabalho 3 / Apresentar algoritmo de ordenação MergeSort
+31/05 - (segunda-feira)Entrega do último trabalho 3 
 
-04/06 - Trabalho 4 para quem não atingiu média.
+04/06 - Apresentar Trabalho 4 para quem não atingiu média.
 
 11/06 -
       
-18/06 - (sexta-feira) Término das aulas
+18/06 - (sexta-feira) Término das aulas / Entrega do Trabalho 4 
