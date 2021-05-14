@@ -2,7 +2,7 @@
 Dado um inteiro x e um vetor v[0..n-1] de inteiros, o problema da busca consiste em encontrar x em v, ou seja, encontrar um índice k tal que v[k] == x.
 */
 public class testaBuscaLinear {
-	 public static int passos=0;
+	public static int passos=0;
     public static void main(String[] args) {
        // tamanho do vetor N=18
 		 int A[] = {5,3,7,4,2,8,4,6,10,20,30,40,50,60,70,80,90,88}; 
