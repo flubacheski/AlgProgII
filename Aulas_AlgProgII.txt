@@ -4,12 +4,12 @@
 TADS 11 alunos
 BJD 23 alunos
 Total 35 alunos
-MÉDIA FINAL= T1*0.2 + T2*0.3 + T3*0.3 + T4*0.2
+MÉDIA FINAL= T1*0.3 + T2*0.3 + T3*0.4
 
-T1 = matrizes
-T2 = Ordenação
-T3 = busca e ordenação
-T4 = QuickSort e MergeSort
+T1 = matrizes - (Sudoku)
+T2 = Ordenação - (Muita Sort)
+T3 = busca e ordenação - (Dicionario Samuel)
+T4 = MergeSort (substitui uma nota baixa ou trabalho que não foi feito)
 
 uDemy - GitHub para iniciantes
 https://www.udemy.com/course/git-e-github-para-iniciantes/
@@ -83,9 +83,9 @@ Diario de Bordo
       - Resolver a busca linear Recursiva 
       - Apresentação do trabalho 3 (Dicionario Samuel reescrever) - usando busca binaria recursiva e insercao recursiva
 
-21/05 - Apresentar a nota do Trabalho 2 / Duvidas em relação ao trabalho 3 / Apresentar algoritmo de ordenação MergeSort
+21/05 - Apresentar a nota do Trabalho 2 / Duvidas em relação ao trabalho 3 / 
 
-28/05 -  Duvidas em relação ao trabalho 3 / Apresentar algoritmo de ordenação MergeSort
+28/05 - Duvidas em relação ao trabalho 3 / Apresentar algoritmo de ordenação MergeSort
 31/05 - (segunda-feira)Entrega do último trabalho 3 
 
 04/06 - Apresentar Trabalho 4 para quem não atingiu média.
