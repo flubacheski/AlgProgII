@@ -14,6 +14,7 @@ class testaMetodobolha {
       System.out.println("Nr Passos:"+passos);
       // passos = (N-1)+(N-2)+(N-3)...2
       // passos = 7+6+5+4+3+2+1=28 (Soma e PA)
+      // passos = ((N-1)+1)*(N-1)/2 = N*(N-1)/2 = (N^2-N)/2=28
     }
     public static void bolha(int V[]){
       for(int k = 1; k < V.length; k++){

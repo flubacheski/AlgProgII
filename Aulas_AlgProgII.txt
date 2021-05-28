@@ -89,10 +89,12 @@ Diario de Bordo
       - link da aula online gravada:
         https://ca-lti.bbcollab.com/recording/2580638bf7e64b2c9665fc46c97733f2
         
-28/05 - Duvidas em relação ao trabalho 3 / Apresentar algoritmo de ordenação MergeSort
+28/05 - Duvidas em relação ao trabalho 3 / Introduzir o algoritmo de intercalação
+      - link da aula online gravada:
+        https://ca-lti.bbcollab.com/recording/2ab72718bc3d4461a1ff618861188c3b  
 31/05 - (segunda-feira)Entrega do último trabalho 3 
 
-04/06 - Apresentar Trabalho 4 para quem não atingiu média.
+04/06 - Apresentar Trabalho 4 (MergeSort) para quem não atingiu média.
 
 11/06 -
       
