@@ -97,6 +97,7 @@ Diario de Bordo
 04/06 - Fazer a intercalão e o MergeSort
         Apresentar Trabalho 4 (MergeSort) para quem não atingiu média.
       - link da aula online gravada:
+        https://ca-lti.bbcollab.com/recording/866d44bede244d71b8eeb3ecc864f612
       
 11/06 - desenvolvimento do trabalho 4
       
