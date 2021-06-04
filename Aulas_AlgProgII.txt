@@ -48,8 +48,8 @@ Diario de Bordo
 		
 19/03 - explicar como fazer a leitura de um arquivo texto para implementar o sudoku
 	   - vimos também como identificar as submatrizes no sudoku.
-		- link da aula online gravada:
-		  https://ca-lti.bbcollab.com/recording/783a83ed93b941aca3bb904855bfe6b2
+	   - link da aula online gravada:
+		 https://ca-lti.bbcollab.com/recording/783a83ed93b941aca3bb904855bfe6b2
 
 26/03 - Feriado antecipado São Paulo
 
@@ -94,8 +94,11 @@ Diario de Bordo
         https://ca-lti.bbcollab.com/recording/2ab72718bc3d4461a1ff618861188c3b  
 31/05 - (segunda-feira)Entrega do último trabalho 3 
 
-04/06 - Apresentar Trabalho 4 (MergeSort) para quem não atingiu média.
-
-11/06 -
+04/06 - Fazer a intercalão e o MergeSort
+        Apresentar Trabalho 4 (MergeSort) para quem não atingiu média.
+      - link da aula online gravada:
       
-18/06 - (sexta-feira) Término das aulas / Entrega do Trabalho 4 
+11/06 - desenvolvimento do trabalho 4
+      
+18/06 - (sexta-feira) Término das aulas / desenvolvimento do trabalho 4
+20/06 - (domingo) Entrega do Trabalho 4 

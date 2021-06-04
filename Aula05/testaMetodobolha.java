@@ -6,7 +6,7 @@ class testaMetodobolha {
 
     public static void main(String[] args) {
        
-		  int A[] = {6, 8, 3, 7, 1, 4, 2, 5}; 
+      int A[] = {6, 8, 3, 7, 1, 4, 2, 5}; 
       bolha(A);
       printaVetor(A);
 
@@ -15,6 +15,7 @@ class testaMetodobolha {
       // passos = (N-1)+(N-2)+(N-3)...2
       // passos = 7+6+5+4+3+2+1=28 (Soma e PA)
       // passos = ((N-1)+1)*(N-1)/2 = N*(N-1)/2 = (N^2-N)/2=28
+      // N = 100 passos = (100^2 - 100)/2 = 4950
     }
     public static void bolha(int V[]){
       for(int k = 1; k < V.length; k++){
